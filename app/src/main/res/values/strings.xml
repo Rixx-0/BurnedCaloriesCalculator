@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BurnedCaloriesCalculator</string>
+    <string name="weight_label">Weight:</string>
+    <string name="miles_label">Miles Ran:</string>
+    <string name="miles_output">1</string>
+    <string name="calories_label">Calories Burned:</string>
+    <string name="calories_output">00.0</string>
+    <string name="height_label">Height:</string>
+    <string name="bmi_label">BMI:</string>
+    <string name="bmi_output">00</string>
+    <string name="weight_output">000</string>
+    <string name="name_edit">Name</string>
+
+    <string-array name="array_feet">
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+</string-array>
+    <string-array name="array_inch">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+</resources>
